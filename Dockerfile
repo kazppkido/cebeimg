@@ -1,4 +1,4 @@
-FROM gcr.io/deeplearning-platform-release/tf2-cpu.2-7:latest
+FROM gcr.io/deeplearning-platform-release/tf2-cpu.2-1:latest
 WORKDIR /
 
 COPY trainer /trainer
